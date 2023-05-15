@@ -20,3 +20,9 @@ To install the theme, follow the directions below:
 * Finally, head over to your .zshrc file and change ``ZSH_THEME="x"`` to ``ZSH_THEME="msys2"``
   
 Now, restart the shell by typing ``zsh`` and you should see the theme.
+
+## Notes
+
+* Every command must be ran in the directory ~
+
+* That's about it
