@@ -1,17 +1,24 @@
 # Theme
 
-Simple ohmyzsh theme I made in vim with the help of spectrum_ls.
+Simple oh-my-zsh theme I made in vim with the help of spectrum_ls.
   
   
 Theme Example:
   
 ![Screenshot](https://github.com/water-logger/MSYS2-Theme/assets/101909986/719dfd4f-0d4f-4faf-b0e8-fc88b600436a)
 
+## Requirements
+
+* A linux based terminal emulator
+* git
+* zsh
+* oh-my-zsh ( Obviously )
+
 ## Installation
 
 To install the theme, follow the directions below:
 
-* First, head over to your terminal and type in:
+* First, head over to your terminal emulator and type in:
 ``git clone https://github.com/water-logger/MSYS2-Theme``
 
 * Next, type in:
@@ -24,5 +31,7 @@ Now, restart the shell by typing ``zsh`` and you should see the theme.
 ## Notes
 
 * Every command must be ran in the directory "~"
+
+* I made this on Termux so this might not work
 
 * That's about it
