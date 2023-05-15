@@ -7,7 +7,7 @@ Theme Example:
 ![Screenshot](https://github.com/water-logger/MSYS2-Theme/assets/101909986/719dfd4f-0d4f-4faf-b0e8-fc88b600436a)
 
 ## Installation
-Please follow the directions bellow:
+To successfully install the theme, follow the directions below:
 * First, head over to your terminal and type in:
 ``$ git clone https://github.com/water-logger/MSYS2-Theme``
 * Next, type in:
