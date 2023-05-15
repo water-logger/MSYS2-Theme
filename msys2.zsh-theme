@@ -1,2 +1,2 @@
-PROMPT='%n@%m ZSH %~$
+PROMPT='%n@%m ZSH %~$(git_prompt_info)
 $ '
