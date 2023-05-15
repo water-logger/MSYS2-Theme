@@ -23,6 +23,6 @@ Now, restart the shell by typing ``zsh`` and you should see the theme.
 
 ## Notes
 
-* Every command must be ran in the directory ~
+* Every command must be ran in the directory "~"
 
 * That's about it
