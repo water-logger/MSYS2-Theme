@@ -1,6 +1,6 @@
 # Theme
 
-Simple Oh-My-Zsh MSYS2 like theme I made in vim.
+Simple ohmyzsh theme I made in vim.
 </br>
 </br>
 Theme Example:
