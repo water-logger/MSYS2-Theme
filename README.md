@@ -1,6 +1,6 @@
 # Theme
 
-Simple ohmyzsh theme I made in vim.
+Simple ohmyzsh theme I made in vim with the help of spectrum_ls.
 </br>
 </br>
 Theme Example:
