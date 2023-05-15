@@ -11,6 +11,7 @@ To install the theme, follow the directions below:
 * First, head over to your terminal and type in:
 ``$ git clone https://github.com/water-logger/MSYS2-Theme``
 * Next, type in:
-``cp ~/MSYS2-Theme/msys2.zsh-theme ~/.oh-my-zsh/custom/themes``
+``$ cp ~/MSYS2-Theme/msys2.zsh-theme ~/.oh-my-zsh/custom/themes``
 * Finally, head over to your .zshrc file and change ``ZSH_THEME="x"`` to ``ZSH_THEME="msys2"``
-Now, restart the shell by typing ``zsh`` and you should see the theme.
+  
+Now, restart the shell by typing ``$ zsh`` and you should see the theme.
