@@ -5,7 +5,7 @@ Simple oh-my-zsh theme I made in vim with the help of spectrum_ls.
   
 Theme Example:
   
-![Screenshot](https://github.com/water-logger/MSYS2-Theme/assets/101909986/719dfd4f-0d4f-4faf-b0e8-fc88b600436a)
+![Screenshot_20230516-223141-000](https://github.com/water-logger/MSYS2-Theme/assets/101909986/811d4b52-782d-4abe-aa58-d94d1ebd108a)
 
 ## Requirements
 
