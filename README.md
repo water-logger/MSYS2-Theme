@@ -9,9 +9,9 @@ Theme Example:
 
 ## Requirements
 
-* A linux based terminal emulator
+* A Linux/Unix based terminal emulator
 * git
-* zsh
+* zsh ( Obviously )
 * oh-my-zsh ( Obviously )
 
 ## Installation
