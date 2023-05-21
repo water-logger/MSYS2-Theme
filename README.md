@@ -1,6 +1,6 @@
 # Theme
 
-Simple oh-my-zsh theme I made in vim with the help of spectrum_ls.
+Simple oh-my-zsh theme inspired by MSYS2.
   
   
 Theme Example:
