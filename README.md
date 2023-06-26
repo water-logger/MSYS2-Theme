@@ -30,6 +30,6 @@ Now, restart the shell by typing ``zsh`` and you should see the theme.
 
 ## Notes
 
-* Every command must be ran in the directory "~"
+* Every command must be ran in the home directory.
 
-* I made this on Termux so this may not work
+* I made this on Termux so this may not work.
